@@ -1,6 +1,7 @@
 # Relógio
 
-![image](https://user-images.githubusercontent.com/78622458/172721115-49811ba7-8884-44cc-b55e-44822aeb778e.png)
+![image](https://user-images.githubusercontent.com/78622458/172893593-f7f6865f-959d-4d23-b454-edc75f8f75de.png)
+
 
 
 ### 🔖 Sobre
